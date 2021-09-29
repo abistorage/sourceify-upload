@@ -1,0 +1,17 @@
+{
+  "name": "abi-storage-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SEE CONTRIBUTORS",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "ipfs-http-client": "^53.0.1",
+    "shelljs": "^0.8.4"
+  }
+}
